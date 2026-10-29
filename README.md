@@ -106,15 +106,6 @@ For a meaningful evaluation, record:
 - Survival time or score, if supported by the environment
 - A comparison between early and later training performance
 
-## 🚀 Future Improvements
-
-- Plot reward trends across training episodes
-- Evaluate performance over multiple independent episodes
-- Compare different hyperparameter configurations
-- Improve checkpoint saving and training resumption
-- Record gameplay demonstrations
-- Experiment with alternative Reinforcement Learning algorithms
-
 ## 🎓 Key Learning Outcomes
 
 Through this project, I explored:
